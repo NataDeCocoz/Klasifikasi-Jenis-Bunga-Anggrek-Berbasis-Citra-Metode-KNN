@@ -4,7 +4,7 @@ https://drive.google.com/file/d/136KcFKX2Qm5JE-nUqfpVIeFjI3xJko0C/view?usp=shari
 ---------------------------------------------------------------------------------------------------
 
 Spesification Camera : 
-Jenis Perangkat            |	Spesifikasi
+Jenis Perangkat            |	Spesifikasi \n
 Nama Perangkat           	 | Xiaomi Redmi Note 9 Pro
 Processor                  |	Qualcomm SM7125 Snapdragon 720G (8 nm)
 Operation System (OS)      |	Android 10; MIUI 11
