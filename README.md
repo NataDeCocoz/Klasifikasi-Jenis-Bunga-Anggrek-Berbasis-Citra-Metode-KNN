@@ -2,6 +2,7 @@ Access Dataset Local in here                                                    
 https://drive.google.com/file/d/136KcFKX2Qm5JE-nUqfpVIeFjI3xJko0C/view?usp=sharing                |
                                                                                                   |
 ---------------------------------------------------------------------------------------------------
+
 Spesification Camera : 
 Jenis Perangkat            |	Spesifikasi
 Nama Perangkat           	 | Xiaomi Redmi Note 9 Pro
@@ -24,6 +25,7 @@ Jenis Perangkat                 |	Spesifikasi
 Operation System (OS)           |	Windows 10 Home Single Language 64-bit (10.0, Build 19045)
 Bahasa Pemrograman	            | Python
 Library	                        | cv2,Numpy, matplotlib, tkinter , skimage, sklearn, joblib, 
+
 ----------------------------------------------------------------------------------------------------
 Non Shill ; Tidak menggunakan Silhoutte Coefficient ( Tanpa Validasi )                             |
 Shill : Menggunakan Silhoutte Coefficient ( Tanpa Validasi )                                       |
